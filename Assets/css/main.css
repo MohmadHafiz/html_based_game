@@ -1,0 +1,41 @@
+/* 
+https://colorhunt.co/palette/2f25194a3f35fa7d09ff4301
+ */
+
+ body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #2F2519;
+    font-family: 'Inter', sans-serif;
+ }
+
+ #game-box{
+    display: none;
+ }
+
+ #mainmenu-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+ #mainmenu-box #menu h3{
+    text-align: center;
+ }
+ #mainmenu-box #menu{
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    max-height: 500px;
+    color: #FA7D09;
+
+    border: 1px solid white;
+    border-radius: 20px;
+ }
+
+
+ .mainbox{
+    width: 100%;
+    height: 100vh;
+ }
